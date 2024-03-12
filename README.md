@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Welcome Message -->
-<div align="center" style="background-color: #f2f2f2; padding: 20px;">
-  <h1 style="color:#2e6da4; font-size: 36px; font-family: Arial, sans-serif;">👋 Hi there, I'm Elliot!</h1>
+<!-- Welcome Message with Image -->
+<div align="center" style="background-color: #2e6da4; padding: 20px;">
+  <img src="https://media.licdn.com/dms/image/D4E16AQEE0qmjPxRdYw/profile-displaybackgroundimage-shrink_350_1400/0/1708091462605?e=1715817600&amp;v=beta&amp;t=EzAc_JutPiRlATpJNwtpTarai7JTW3UdAS-w666Dcmg" alt="Elliot Collingwood-Smith" id="ember404" class="full-width evi-image ember-view">
+  <h1 style="color: #ffffff; font-size: 36px; font-family: 'Arial Black', Gadget, sans-serif;">👋 Hi there, I'm Elliot!</h1>
 </div>
 
 <!-- Introduction -->
