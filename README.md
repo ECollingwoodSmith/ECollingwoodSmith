@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- Welcome Message with Image -->
 <div align="center" style="background-color: #2e6da4; padding: 20px;">
-  <img src="https://media.licdn.com/dms/image/D4E16AQEE0qmjPxRdYw/profile-displaybackgroundimage-shrink_350_1400/0/1708091462605?e=1715817600&amp;v=beta&amp;t=EzAc_JutPiRlATpJNwtpTarai7JTW3UdAS-w666Dcmg" alt="Elliot Collingwood-Smith" id="ember404" class="full-width evi-image ember-view">
+  <img src="https://media.licdn.com/dms/image/D4E16AQEE0qmjPxRdYw/profile-displaybackgroundimage-shrink_350_1400/0/1708091462605?e=1715817600&amp;v=beta&amp;t=EzAc_JutPiRlATpJNwtpTarai7JTW3UdAS-w666Dcmg" alt="Elliot Collingwood-Smith" style="width: 100%; max-width: 1000px;">
   <h1 style="color: #ffffff; font-size: 36px; font-family: 'Arial Black', Gadget, sans-serif;">👋 Hi there, I'm Elliot!</h1>
 </div>
 
@@ -36,3 +36,12 @@ Here are some ideas to get you started:
 
 **Active GitHub Contributor:**
 <p style="text-align: justify; font-size: 16px; line-height: 1.6; color: #333;">Keen to engage with fellow data enthusiasts, I'm an enthusiastic contributor on GitHub, actively participating within the dynamic community of data scientists. Let's collaborate and create something exceptional together!</p>
+
+<!-- Let's Connect -->
+<div align="center">
+  <h2>Let's Connect</h2>
+  <a href="https://www.linkedin.com/in/elliotcollingwoodsmith">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/140px-LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 100px;">
+  </a>
+</div>
++
