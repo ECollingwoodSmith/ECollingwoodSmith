@@ -44,4 +44,3 @@ Here are some ideas to get you started:
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/140px-LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 100px;">
   </a>
 </div>
-+
