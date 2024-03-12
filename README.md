@@ -14,25 +14,24 @@ Here are some ideas to get you started:
 -->
 
 <!-- Welcome Message -->
-<div align="center" style="background-color: #2e6da4; padding: 20px;">
-  <h1 style="color: #ffffff; font-size: 36px; font-family: 'Arial Black', Gadget, sans-serif;">👋 Hi there, I'm Elliot!</h1>
+<div align="center" style="background-color: #f2f2f2; padding: 20px;">
+  <h1 style="color:#2e6da4; font-size: 36px; font-family: Arial, sans-serif;">👋 Hi there, I'm Elliot!</h1>
 </div>
 
 <!-- Introduction -->
-<p style="text-align: justify; font-size: 18px; line-height: 1.6; color: #333;">Welcome to my digital domain! I'm Elliot, a data virtuoso with a flair for finance. My journey began with a solid foundation in Accountancy & Finance, culminating in an MA (Hons) from Heriot-Watt University. Building on this, I embarked on a thrilling Data Science odyssey at HyperionDev, mastering Python, SQL, machine learning, and data visualization along the way.</p>
+<p style="text-align: justify; font-size: 16px; line-height: 1.6; color: #333;">I'm a passionate Data Scientist with a strong background in finance and extensive training in Data Science. My journey began with a solid foundation in Accountancy & Finance, culminating in an MA (Hons) from Heriot-Watt University. Building on this, I completed a rigorous Data Science bootcamp at HyperionDev, where I honed my skills in Python, SQL, machine learning, and data visualization.</p>
 
 **Data Science Expertise:**
-<p style="text-align: justify; font-size: 18px; line-height: 1.6; color: #333;">Behold, the wizard of data! I wield Python like a maestro, conjuring insights from the depths of complex datasets. Proficient in NumPy, Pandas, scikit-learn, and spaCy, I specialize in machine learning and natural language processing (NLP). From sentiment analysis to predictive modeling, I craft solutions that unlock the secrets of the digital realm.</p>
+<p style="text-align: justify; font-size: 16px; line-height: 1.6; color: #333;">My expertise lies in analysing complex datasets to derive actionable insights and drive decision-making processes. Proficient in Python (including NumPy, Pandas, scikit-learn, spaCy) and SQL, I specialise in machine learning and natural language processing (NLP) tasks. From sentiment analysis to predictive modeling, I thrive on leveraging data to solve real-world challenges.</p>
 
 **Experience at Accelerant Insurance:**
-<p style="text-align: justify; font-size: 18px; line-height: 1.6; color: #333;">In the crucible of Accelerant Insurance, I honed my craft in the arcane arts of Natural Language Processing (NLP). With web scraping prowess and HTML sorcery, I amassed a treasure trove of insurance insights from a sea of news articles. Armed with TensorFlow and sklearn enchantments, I sculpted a BERT model tailored for the insurance domain, unveiling truths hidden in the shadows. The wisdom gleaned from this quest was presented to the Chief Decision Scientist, demonstrating my prowess as a data sorcerer.</p>
+<p style="text-align: justify; font-size: 16px; line-height: 1.6; color: #333;">During my internship at Accelerant Insurance, I delved into Natural Language Processing (NLP) by analyzing insurance industry news articles. Employing web scraping techniques, utilizing HTML for data extraction, I amassed a significant dataset of over 18,000 articles, meticulously parsing their content and metadata. Leveraging powerful libraries like TensorFlow and sklearn, I fine-tuned a pre-trained BERT model tailored specifically for the insurance domain, thereby refining the accuracy of sentiment analysis. The insights derived from this project were visualized using Matplotlib and presented to the Chief Decision Scientist, demonstrating my ability to effectively communicate findings to stakeholders.</p>
 
 **Finance Background:**
-<p style="text-align: justify; font-size: 18px; line-height: 1.6; color: #333;">But wait, there's more! My adventures in finance have taken me from the trading floors of Credit Suisse to the audit chambers of Grant Thornton. With a keen eye for market trends and a knack for volatility forecasting, I navigate the labyrinth of financial data with ease. My dissertation on volatility forecasting stands as a testament to my prowess in the arcane arts of finance.</p>
+<p style="text-align: justify; font-size: 16px; line-height: 1.6; color: #333;">With practical experience gained from internships at Credit Suisse and Grant Thornton, I've acquired a deep understanding of financial markets, financial reporting, and audit procedures. My dissertation on volatility forecasting showcased my ability to apply advanced statistical methods to financial data and conduct predictive modeling, further enriching my analytical toolkit.</p>
 
 **Ongoing Projects:**
-<p style="text-align: justify; font-size: 18px; line-height: 1.6; color: #333;">Behold, the architect of the future! In my laboratory of machine learning and AI, I craft the blueprints of tomorrow's financial landscape. Armed with TensorFlow and PyTorch, I design algorithms that dance with market trends, safeguard portfolios, and mitigate risks. From insurance to investments, I weave a tapestry of prosperity and innovation, reshaping the world one data point at a time.</p>
+<p style="text-align: justify; font-size: 16px; line-height: 1.6; color: #333;">Currently, I'm deeply immersed in hands-on projects exploring the intersection of machine learning, AI, and finance. Drawing from my experience in the insurance sector and recent applications to other firms in the field, my focus is on leveraging libraries like TensorFlow and PyTorch. These projects delve into algorithmic trading strategies and risk management models, aiming to forecast market trends, optimise portfolio allocations, and mitigate financial risks. Through the application of machine learning techniques to both financial and insurance data, my goal is to uncover actionable insights that inform investment decisions and drive innovation and stability in both sectors.</p>
 
 **Active GitHub Contributor:**
-<p style="text-align: justify; font-size: 18px; line-height: 1.6; color: #333;">Seeking fellow travelers in the digital wilderness, I roam the halls of GitHub with fervor. Join me in the quest for knowledge, the pursuit of excellence, and the creation of wonders yet unseen. Together, let's forge a future where data reigns supreme and innovation knows no bounds!</p>
-
+<p style="text-align: justify; font-size: 16px; line-height: 1.6; color: #333;">Keen to engage with fellow data enthusiasts, I'm an enthusiastic contributor on GitHub, actively participating within the dynamic community of data scientists. Let's collaborate and create something exceptional together!</p>
